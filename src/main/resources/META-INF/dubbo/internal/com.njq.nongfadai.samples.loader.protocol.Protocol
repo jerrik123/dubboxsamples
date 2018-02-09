@@ -1,0 +1,3 @@
+dubbo=com.njq.nongfadai.samples.loader.protocol.DubboProtocol
+filter=com.njq.nongfadai.samples.loader.protocol.ProtocolFilterWrapper
+adapativeProtocol=com.njq.nongfadai.samples.loader.protocol.AdapativeProtocol
